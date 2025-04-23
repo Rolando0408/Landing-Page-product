@@ -1,0 +1,17 @@
+#header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: whitesmoke;
+}
+
+.img-wrapper{
+    height: 50px;
+    width: 50px;
+    margin: 20px;
+}
+
+#header-img{
+    height: 100%;
+    width: auto;
+}
